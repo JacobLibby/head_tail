@@ -13,7 +13,7 @@ with open(input_filename, 'rb') as f:
         f.seek(-2, os.SEEK_CUR)
     last_line = f.readline().decode()
 
-# craete output file
+# create output file
 output_filename = "output_file.txt"
 output_file = open(output_filename,'w')
 
