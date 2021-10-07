@@ -9,8 +9,8 @@ output_filename = "output_file.txt"
 output_file = open(output_filename, 'w')
 
 # number of desired lines 
-number_of_head_lines = 3
-number_of_tail_lines = 1
+number_of_head_lines = 2
+number_of_tail_lines = 2
 
 ## HEAD LINES ##
 
