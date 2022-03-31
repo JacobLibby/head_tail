@@ -14,9 +14,9 @@ This is a simple python program that pulls the first and last line of a file
     If your head_tail.py is not in the same directory as input file, you will need to add additional code to search through directories to find the file. This simplifies it a bit :)
 
 3:
-    Either run in your IDE or using command line ("cd downloads"    "py head_tail.py")
+    Either run in your IDE or using command line with:
     
+     cd downloads
+     py head_tail.py
     
-    
-    
-    I hope this code helps in your scientific endeavors, feel free to use and edit :)
+   *I hope this code helps in your scientific endeavors, feel free to use and edit :)*
