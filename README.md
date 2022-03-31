@@ -1,6 +1,7 @@
 # head_tail
-pulling first and last line of file
+This is a simple python program that pulls the first and last line of a file
 
+# Set up
 1) Edit head_tail.py and change input_filename and output_filename
 2) Ensure that head_tail.py is in the same directory as your desired input_file
 3) Run code
